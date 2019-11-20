@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="delete account"
+        android:id="@+id/delete_option"
+        ></item>
+
+    <item
+        android:title="update account"
+        android:id="@+id/update_option"
+        ></item>
+
+    <item android:id="@+id/logout"
+        android:title="logout">
+    </item>
+
+</menu>

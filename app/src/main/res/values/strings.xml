@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Advance Curd</string>
+    <string name="username_hint">enter username</string>
+    <string name="password_hint">enter password</string>
+    <string name="btn_text">Login</string>
+    <string name="registration">Registration</string>
+    <string name="enter_first_name">enter first name</string>
+    <string name="enter_last_name">enter last name</string>
+    <string name="branch_ce_it">Branch CE/IT</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="register_me">REGISTER ME</string>
+    <string name="enter_email_as_username">enter email as username</string>
+    <string name="enter_password">enter password</string>
+    <string name="profile_status_active_inactive">Profile Status Active/Inactive</string>
+    <string name="first_name">First Name :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="status">Status :</string>
+    <string name="username">UserName :</string>
+    <string name="password">Password :</string>
+    <string name="gender">Gender :</string>
+    <string name="city">City :</string>
+    <string name="branch">Branch :</string>
+    <string name="link">You are not member? <b><font fgcolor="#d50000"><u>Register</u></font></b>
+    </string>
+    <string name="delete_message">Are you sure want to delete this account?</string>
+    <string-array name="city_list">
+        <item>Diu</item>
+        <item>Rajkot</item>
+        <item>Junaghard</item>
+        <item>Ahemdabad</item>
+        <item>Jamnagar</item>
+        <item>Porbandar</item>
+    </string-array>
+</resources>
